@@ -3,9 +3,9 @@ const router = express.Router();
 
 
 const arrayObjects = [
-    { id: 1, name: 'jasser' },
-    { id: 2, name: 'jammeli' },
-    { id: 3, name: 'glsi1' }
+    { id: 1, name: 'raef' },
+    { id: 2, name: 'belhaj' },
+    { id: 3, name: 'glsi' }
   ];
 
   // http://localhost:9000/post/all

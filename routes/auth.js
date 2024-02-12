@@ -3,7 +3,7 @@ const router = express.Router();
 
   // http://localhost:9000/auth/login
 router.get('/login',(req,res)=>{
-    res.send('<h1>hello Jasser jammeli glsi_C</h1>');
+    res.send('<h1>hello raef belhaj </h1>');
 });
 
   // http://localhost:9000/auth/register
